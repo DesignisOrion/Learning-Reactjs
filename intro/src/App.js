@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h2>Welcome to my Counter App !</h2>
-        <p>Learning Reactjs by @DesignIsOrion</p>
+        <p>Learning Reactjs for DApp Front End Design.</p>
         <Counter/>
         <Documentation/>
       </header>
